@@ -3,7 +3,7 @@ mi dica quante lettere mi rimangono e
 quante ne ho scritte in più per twitter 
 bisogna usare anche la fx .lenght
 l'output che deve uscire deve essere tipo
-you have written var chracters , you have var character left.*/
+you have written var characters , you have var character left.*/
 
 
 
